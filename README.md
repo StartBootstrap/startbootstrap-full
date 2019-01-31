@@ -1,3 +1,5 @@
+*This template has been replaced with a snippet on Start Bootstrap. The repository for this template has been archived, and will receive no future updates. [Click here](https://startbootstrap.com/snippets/full-image-background/) to view the actively developed snippet for this template on Start Bootstrap.*
+
 # [Start Bootstrap - Full](https://startbootstrap.com/template-overviews/full/)
 
 [Full](http://startbootstrap.com/template-overviews/full/) is full page background image HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
